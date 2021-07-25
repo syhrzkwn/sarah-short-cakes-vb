@@ -1,0 +1,191 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SARAH SHORT CAKES – SALES ORDER SYSTEM
+</name>
+</assembly>
+<members>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet.CUPCAKESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet.CUSTOMERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet.ORDDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet.ORDERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet.SPECIALDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet.STAFFDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet.CUPCAKESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet.CUSTOMERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet.ORDRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet.ORDERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet.SPECIALRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet.STAFFRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet.CUPCAKESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet.CUSTOMERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet.ORDRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet.ORDERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet.SPECIALRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet.STAFFRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSetTableAdapters.CUPCAKESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSetTableAdapters.CUSTOMERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSetTableAdapters.ORDTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSetTableAdapters.ORDERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSetTableAdapters.SPECIALTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSetTableAdapters.STAFFTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSetTableAdapters.TableAdapterManager.UpdateAll(SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SARAH_SHORT_CAKES___SALES_ORDER_SYSTEM.Sarahs_Short_CakeDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
